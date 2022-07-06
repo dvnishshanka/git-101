@@ -1,6 +1,7 @@
 body{
 	font-family: Helvetica;
 	margin: 0;
+	background: lightpink;
 }
 
 
@@ -8,6 +9,10 @@ body{
 	height:  90px;
 	width: 90px;
 	
+}
+
+h1{
+	font-weight: 100;
 }
 
 #container{
